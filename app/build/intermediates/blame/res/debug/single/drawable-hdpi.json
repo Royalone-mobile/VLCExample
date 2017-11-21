@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Projects\\VLC-Simple-Player-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_play_over_video.png",
+        "source": "F:\\Projects\\VLC-Simple-Player-Android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_action_play_over_video.png"
+    },
+    {
+        "merged": "F:\\Projects\\VLC-Simple-Player-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "F:\\Projects\\VLC-Simple-Player-Android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Projects\\VLC-Simple-Player-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_pause_over_video.png",
+        "source": "F:\\Projects\\VLC-Simple-Player-Android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_action_pause_over_video.png"
+    }
+]

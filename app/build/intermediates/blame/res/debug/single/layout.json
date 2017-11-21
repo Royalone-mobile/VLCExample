@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\Projects\\VLC-Simple-Player-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_media_selector.xml",
+        "source": "F:\\Projects\\VLC-Simple-Player-Android-master\\app\\src\\main\\res\\layout\\activity_media_selector.xml"
+    },
+    {
+        "merged": "F:\\Projects\\VLC-Simple-Player-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fullscreen_vlc_player.xml",
+        "source": "F:\\Projects\\VLC-Simple-Player-Android-master\\app\\src\\main\\res\\layout\\activity_fullscreen_vlc_player.xml"
+    }
+]
